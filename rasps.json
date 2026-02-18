@@ -1,0 +1,28 @@
+{
+    "rasps": [
+        {
+            "id": "01",
+            "name": "Raspmon1",
+            "ip": "000.000.0.000",
+            "local": "Fundo da Fabrica"
+        },
+        {
+            "id": "02",
+            "name": "Raspmon2",
+            "ip": "000.000.0.000",
+            "local": "Corredor"
+        },
+        {
+            "id": "03",
+            "name": "Raspmon3",
+            "ip": "000.000.0.000",
+            "local": "Meio da Fabrica"
+        },
+        {
+            "id": "04",
+            "name": "Raspmon4",
+            "ip": "000.000.0.000",
+            "local": "Escada"
+        }
+    ]
+}
